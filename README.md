@@ -1,4 +1,1 @@
-## hey
-- js 😘
-- python 🤢
-- forgor 💀
+### hey
